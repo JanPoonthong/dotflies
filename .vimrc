@@ -1,23 +1,22 @@
-" enable syntax highlighting
-syntax enable
-
-" show line numbers
-set number
-
-" set tabs to have 4 spaces
-set ts=4
-
-" indent when moving to the next line while writing code
+set nu
+set nocompatible
+filetype indent plugin on
+syntax on
+set hidden
+set wildmenu
+set showcmd
+set hlsearch
+set ignorecase
+set smartcase
+set backspace=indent,eol,start
 set autoindent
-
-" expand tabs into spaces
-set expandtab
-
-" when using the >> or << commands, shift lines by 4 spaces
+set nostartofline
+set ruler
+set laststatus=2
+set confirm
+set cmdheight=2
+set mouse=a
+set pastetoggle=<F11>
 set shiftwidth=4
-
-" show the matching part of the pair for [] {} and ()
-set showmatch
-
-" enable all Python syntax highlighting features
-let python_highlight_all = 1
+set softtabstop=4
+set expandtab
