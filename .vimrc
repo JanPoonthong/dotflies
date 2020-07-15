@@ -15,7 +15,6 @@ set ruler
 set laststatus=2
 set confirm
 set cmdheight=2
-set mouse=a
 set pastetoggle=<F11>
 set shiftwidth=4
 set softtabstop=4
