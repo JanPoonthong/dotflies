@@ -10,14 +10,10 @@ set backspace=indent,eol,start
 set autoindent
 set nostartofline
 set ruler
-set laststatus=2
 set confirm
 set shiftwidth=4
 set softtabstop=4
 set expandtab
-set colorcolumn=60
-set list
-set listchars=
 set relativenumber
 set showcmd
 set title
