@@ -16,7 +16,6 @@ set confirm
 set shiftwidth=4
 set softtabstop=4
 set expandtab
-set background=dark
 set colorcolumn=60
 set list
 set listchars=
