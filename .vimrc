@@ -3,7 +3,6 @@ filetype indent plugin on
 syntax on
 set hidden
 set wildmenu
-set showcmd
 set hlsearch
 set ignorecase
 set smartcase
