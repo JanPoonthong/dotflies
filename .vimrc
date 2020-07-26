@@ -21,7 +21,5 @@ set listchars=
 set relativenumber
 set showcmd
 set title
-set hidden     
 set nowrap
-set autoindent
 set noswapfile
