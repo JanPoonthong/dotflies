@@ -1,31 +1,19 @@
-syntax on
-
 set nocompatible
-set relativenumber
-
+filetype indent plugin on
+syntax on
 set hidden
 set wildmenu
+set showcmd
 set hlsearch
-
 set ignorecase
 set smartcase
-set confirm
-
-set shiftwidth=2
-set softtabstop=2
-set expandtab
+set backspace=indent,eol,start
 set autoindent
-
-set showcmd
-set title
-set nowrap
-set noswapfile
-
-noremap <up> :echoerr "Umm, use k instead"<CR>
-noremap <down> :echoerr "Umm, use j instead"<CR>
-noremap <left> :echoerr "Umm, use h instead"<CR>
-noremap <right> :echoerr "Umm, use l instead"<CR>
-inoremap <up> <NOP>
-inoremap <down> <NOP>
-inoremap <left> <NOP>
-inoremap <right> <NOP>
+set nostartofline
+set ruler
+set laststatus=2
+set confirm
+set number
+set shiftwidth=4
+set softtabstop=4
+set expandtab
