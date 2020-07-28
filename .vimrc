@@ -17,3 +17,6 @@ set number
 set shiftwidth=4
 set softtabstop=4
 set expandtab
+let python_highlight_all = 1
+
+autocmd FileType python imap <buffer> <F9> <esc>:w<CR>:exec '!python3' shellescape(@%, 1)<CR>
