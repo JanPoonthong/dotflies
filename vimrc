@@ -46,6 +46,7 @@ set encoding=utf-8
 let python_highlight_all=1
 syntax on
 
+set tw=60 cc=60
 set background=dark
 colorscheme zenburn
 
