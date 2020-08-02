@@ -51,5 +51,5 @@ set background=dark
 colorscheme zenburn
 
 set nu
-set clipboard=unnamed
+set clipboard=
 set showcmd
