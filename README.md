@@ -1,3 +1,3 @@
 # Notes
 
-This is all my notes
+This is all my notes, practices, remainder and concept
