@@ -1,4 +1,4 @@
 # Terminal
 
 ### To open png in terminal
-xdg-open image.png
+```xdg-open image.png```
