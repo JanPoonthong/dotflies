@@ -12,4 +12,6 @@ g^='git push'
 gp='git checkout -p'  
 
 alias go='git checkout'
+git reset HEAD~1 # To rest files added
+git log --stat # Check log 
 ```
