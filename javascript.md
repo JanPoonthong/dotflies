@@ -1,3 +1,6 @@
-```document.querySelector('tag') => h1, h2, h3, etc.
+# Javascript notes
+```
+document.querySelector('tag') => h1, h2, h3, etc.
 document.querySelector('#id')
-document.querySelector('.class')```
+document.querySelector('.class')
+```
