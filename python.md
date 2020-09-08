@@ -1,3 +1,4 @@
+## Function
 @Jan
 I always get have promble with calling the function after
 I think my braine think in different way, and it is wrong
