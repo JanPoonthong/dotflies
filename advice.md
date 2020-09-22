@@ -18,13 +18,11 @@ and the skill to break your idea down in a way you can implement it
 1. Doing too much pre-processing
 1. Large unorganized commits
 1. Putting secrets or artefacts into GIT
-Also:
-Also:
-- Giving up too early / not being persistent and persevering through frustration.
-- Expecting to be good without putting in the work.
-- Thinking you know everything / you're the shit.
-- Thinking you'll never be able to do something because you're not smart enough.
-- Not pushing yourself out of your comfort zone. 
-- Not asking for help because you're afraid people will judge you.
-- Asking other people for help before you even try to do something yourself.
-- Not believing in yourself :)
+* Giving up too early / not being persistent and persevering through frustration.
+* Expecting to be good without putting in the work.
+* Thinking you know everything / you're the shit.
+* Thinking you'll never be able to do something because you're not smart enough.
+* Not pushing yourself out of your comfort zone.
+* Not asking for help because you're afraid people will judge you.
+* Asking other people for help before you even try to do something yourself.
+* Not believing in yourself
