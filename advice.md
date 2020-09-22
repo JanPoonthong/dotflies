@@ -1,6 +1,6 @@
 # Advice
 
-## Advice from people (AI-Gamedev)
+## Advice from people, KunosStefano (AI-Gamedev)
 * Yeah but until you understand how you can break problems down into code, 
 you can't know how to design
 * Two things - the skills to implement your idea,
