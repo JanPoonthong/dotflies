@@ -16,20 +16,18 @@ git reset HEAD~1 # To rest files added
 git log --stat # Check log 
 git revert <hash> # To revert back to commit stage
 git reset --hard origin/master # Reset to lastest commit
+git reset --hard @~1 # Same as origin/master in some case
 ```
 
 ### Merge
 ```
-Check the code, read it and understand it
-git fetch origin '+refs/pull/*:refs/remotes/github-pr/*' #
-Get the merge
+# Check the code, read it and understand it
+git fetch origin '+refs/pull/*:refs/remotes/github-pr/*' # Get the merge
 git status # To check everything is clean
 git merge <github-pr/1/head>
-Test the code and run it, don't push it yet, if you like
-then push it
 
-If I don't like it then
+# Test the code and run it, don't push it yet, if you like then push it
+
+# If I don't like it then
 git reset --hard origin/master # Reset to lastest commit
-or
-git reset --hard @~1
 ```
