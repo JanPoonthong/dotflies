@@ -1,5 +1,6 @@
 # Git
 ```
+# Credit to Strager https://github.com/strager/dotfiles/
 gs='git status -s -b'  
 gc='git commit -v'  
 g.c='git commit -am'
