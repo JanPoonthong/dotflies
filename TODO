@@ -1,3 +1,4 @@
-[~] AI tic tac toe
-    [~] Select random empty slot in board
-    [x] Make two mode, AI and 2 players
+Hangman
+[x] Select randmly from a word list
+[x] Make each letter as _
+[_] length of the word + 3, give three chances to user for guessing
