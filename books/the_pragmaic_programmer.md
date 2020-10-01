@@ -40,6 +40,8 @@ active involvement with a job you love, a feeling of mastery
 over an increasing range of subjects, and pleasure in a
 feeling of continuous improvement.
 
+1. Provide Options, Don't Make Lame Excuses
+
 ### It's a continuous process
 Great lawns need small amount of daily care, and so do great
 programmers. "Kaizen" is a Janpanese term that captures the
@@ -52,3 +54,19 @@ you have and add new tools to your repertoire. you'll start
 seeing results in a matter of days. Over the years, you'll
 be amazed at how your experience has blossomed and your
 skilss have grown.
+
+## Chapter 1. A pragmatic philosophy
+* They think beyond the immediate problem.
+* Always trying to place it in it's latger context.
+* Always trying to be aware of the bigger picture.
+* They take responsibility for everything they do
+* Communicate
+
+#### The cat ate my source code
+* Taking responsibility for they own actions and projects
+* When you make mistake (as we all do) or an error in
+  judgment, admit it honestly and try to offer options.
+* Don't blame someone or something else, or make up an
+  excuse
+
+#### Software entropy
