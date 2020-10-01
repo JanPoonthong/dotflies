@@ -26,6 +26,8 @@ your current job may require you to be a specialist, you will always be able to 
 on to new areas and new challenges.
 
 ### Tips
-1. Care about your craft
-We feel that there is no point in developing software unless
+1. Care about your craft: We feel that there is no point in developing software unless
 you care about doing it well.
+1. Think! about your work: Think about what you're doing
+   while you're doing it. Never run on auto-pilot, go deep,
+understand the fundamental how things works.
