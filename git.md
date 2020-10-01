@@ -24,7 +24,7 @@ git reset --hard @~1 # Same as origin/master in some case
 # Check the code, read it and understand it
 git fetch origin '+refs/pull/*:refs/remotes/github-pr/*' # Get the merge
 git status # To check everything is clean
-git merge <github-pr/1/head>
+git merge <github-pr/1/head> # Merging
 
 # Test the code and run it, don't push it yet, if you like then push it
 
