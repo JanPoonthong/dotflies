@@ -3,7 +3,9 @@
 ### October 3, 2020
 Python: sys.exit(""), string are allow to display, when
 program exit.
+
 English: "me neither" is the way to say, not "either me".
+
 David Goggins: "Self-talk", when you want to give up, think
 about all the hard work of years that you've put, to be at this
 position, Talk: "You did programming for 10 hours", "You
