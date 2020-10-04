@@ -17,6 +17,7 @@ that you've put in.
 
 ### October 4, 2020
 Strager:
+
     Phase 1. Learn programming
         * Learn problem solving
         * Learn how computer work
