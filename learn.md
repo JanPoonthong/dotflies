@@ -14,3 +14,25 @@ to work rather than hanging out", "You're always willing to
 learn more and improve yourself", and "You wake up at 7 am and
 go to bed at 1 am", remind yourself of the past hard work
 that you've put in.
+
+### October 4, 2020
+Strager:
+    Phase 1. Learn programming
+        * Learn problem solving
+        * Learn how computer work
+        * Secondary: Learn a programming language
+        * Maybe: Learn software process
+
+    Phase 2. Learn domain
+        * Web sites
+            * Blogs
+            * Ecommerce
+            * Wikis
+            * Content-rich (Twitch, Youtube, etc)
+        * Game development
+        * Machine learning
+        * Systems programming
+            * Compilers
+            * Infrastructure
+            * Kernel/OS
+        * Mobile apps
