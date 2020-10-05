@@ -1,7 +1,7 @@
 ## Function
 @Jan
-I always get have promble with calling the function after
-I think my braine think in different way, and it is wrong
+I always get have problem with calling the function after
+I think my brain think in different way, and it is wrong
 what should I learn to prevent this?
 
 @strager

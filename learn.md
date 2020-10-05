@@ -37,3 +37,15 @@ Strager:
             * Infrastructure
             * Kernel/OS
         * Mobile apps
+
+English: "Hierarchy" is an arrangement of items in which the
+items are represented as being "above", "below", or 
+"at the same level as" one another
+
+Git:
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+
