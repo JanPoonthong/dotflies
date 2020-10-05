@@ -18,6 +18,7 @@ git log --stat # Check log
 git revert <hash> # To revert back to commit stage
 git reset --hard origin/master # Reset to lastest commit
 git reset --hard @~1 # minus one from origin/master
+git commit --amend -m "New commit message" # Change the message of the latest commit
 ```
 
 ### Merge
