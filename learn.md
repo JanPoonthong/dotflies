@@ -56,6 +56,6 @@ Strager:
 :set t_BE=
 
 ### October 8, 2020
-Jan: How you clean up your code?
-
-Strager: https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/
+Jan: How you clean up your code?  
+Strager: https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/  
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
