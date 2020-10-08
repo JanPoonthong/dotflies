@@ -63,3 +63,7 @@ Strager: Book: Refactoring:
 https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/  
 Book: Test Driven Development By Example 1st Edition:  
 https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
+
+Strager:  
+
+Regular expression: [A-z^:**]:
