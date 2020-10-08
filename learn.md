@@ -42,7 +42,7 @@ English: "Hierarchy" is an arrangement of items in which the
 items are represented as being "above", "below", or 
 "at the same level as" one another
 
-Git:
+Git:  
 // delete branch locally
 git branch -d localBranchName
 
@@ -50,12 +50,12 @@ git branch -d localBranchName
 git push origin --delete remoteBranchName
 
 ### October 7, 2020
-Strager:
-
-:help bracketed
+Strager:  
+:help bracketed  
 :set t_BE=
 
 ### October 8, 2020
 Jan: How you clean up your code?  
 Strager: https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/  
+Test Driven Development: By Example 1st Edition  
 https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
