@@ -66,4 +66,5 @@ https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 
 Strager:  
 
-Regular expression: [A-z^:**]:
+Regular expression: [A-z^::]  
+Google it first, then ask strager
