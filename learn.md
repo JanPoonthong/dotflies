@@ -70,4 +70,5 @@ Regular expression: [A-z^::]
 Good color: #1E90FF, #c6faf1
 
 ### October 10, 2020
-git add -u: Only add modify file not the untrack files
+Git: git add -u: Only add modify file not the untrack files
+Vim: :term open a terminal to open the program
