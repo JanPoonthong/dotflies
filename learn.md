@@ -97,3 +97,6 @@ will generate multiple pygame.KEYDOWN events. The dalay is
 the number of milliseconds before the first repeated
 pygame.KEYDOWN will be send. After that another
 pygame.KEYDOWN will be send every interval milliseconds
+
+Word: Masochist means a person who enjoys an activity that
+appears to be painful or tedious
