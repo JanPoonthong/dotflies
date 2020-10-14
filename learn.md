@@ -71,4 +71,13 @@ Good color: #1E90FF, #c6faf1
 
 ### October 10, 2020
 Git: git add -u: Only add modify file not the untrack files
+
 Vim: :term open a terminal to open the program
+
+Strager: It's complicated. My current thinking is that OOP
+requires polymorphism. If you're using classes without
+polymorphism, I don't consider that OOP.
+
+Polymorphism: It describes the concept that objects of different types
+can be accessed through the same interface. Each type can
+provide its own, independent implementation of this interface.
