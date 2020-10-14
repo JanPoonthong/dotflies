@@ -1,6 +1,7 @@
-# Learned
+# Learn
 
 ### October 3, 2020
+
 Python: sys.exit(""), string are allow to display, when
 program exit.
 
@@ -16,6 +17,7 @@ go to bed at 1 am", remind yourself of the past hard work
 that you've put in.
 
 ### October 4, 2020
+
 Strager:
 
     Phase 1. Learn programming
@@ -44,11 +46,11 @@ items are represented as being "above", "below", or
 
 Git:
 
-// delete branch locally
-git branch -d localBranchName
+    // delete branch locally
+    git branch -d localBranchName
 
-// delete branch remotely
-git push origin --delete remoteBranchName
+    // delete branch remotely
+    git push origin --delete remoteBranchName
 
 ### October 7, 2020
 Strager:
@@ -59,15 +61,19 @@ Strager:
 
 ### October 8, 2020
 Jan: How you clean up your code?  
+
 Strager: Book: Refactoring:  
+
 https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/  
+
 Book: Test Driven Development By Example 1st Edition:  
+
 https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 
 Strager:  
 
-Regular expression: [A-z^::]  
-Good color: #1E90FF, #c6faf1
+    Regular expression: [A-z^::]
+    Good color: #1E90FF, #c6faf1
 
 ### October 10, 2020
 Git: git add -u: Only add modify file not the untrack files
@@ -81,3 +87,13 @@ polymorphism, I don't consider that OOP.
 Polymorphism: It describes the concept that objects of different types
 can be accessed through the same interface. Each type can
 provide its own, independent implementation of this interface.
+
+### October 15, 2020
+Pygame:
+    pygame.key.set_repeat(delay, interval) -> None
+
+When the keyboard repeat is enabled, keys that are held down
+will generate multiple pygame.KEYDOWN events. The dalay is
+the number of milliseconds before the first repeated
+pygame.KEYDOWN will be send. After that another
+pygame.KEYDOWN will be send every interval milliseconds
