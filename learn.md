@@ -100,3 +100,7 @@ pygame.KEYDOWN will be send every interval milliseconds
 
 Word: Masochist means a person who enjoys an activity that
 appears to be painful or tedious
+
+Strager:
+    :grep -R SEARCH_TERM . # for searching content inside a
+file, in vim
