@@ -1,11 +1,9 @@
 ## Function
-@Jan
-I always get have problem with calling the function after
+Jan: I always get have problem with calling the function after
 I think my brain think in different way, and it is wrong
 what should I learn to prevent this?
 
-@strager
-Using classes and dependency injection (**not** IoC containers)
+strager: Using classes and dependency injection (**not** IoC containers)
 might help, as it'd naturally enforce the requirements via
 data dependencies.
 

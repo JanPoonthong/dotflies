@@ -2,19 +2,11 @@
 
 ### October 3, 2020
 
-Python: sys.exit(""), string are allow to display, when
-program exit.
+Python: 
+
+    sys.exit(""), string are allow to display, whenprogram exit.
 
 English: "me neither" is the way to say, not "either me".
-
-David Goggins: "Self-talk", when you want to give up, think
-about all the hard work of years that you've put, to be at this
-position, Talk: "You did programming for 10 hours", "You
-made the discipline", "You made the sacrifices, you choose
-to work rather than hanging out", "You're always willing to
-learn more and improve yourself", and "You wake up at 7 am and
-go to bed at 1 am", remind yourself of the past hard work
-that you've put in.
 
 ### October 4, 2020
 
@@ -56,29 +48,30 @@ Git:
 Strager:
 
     # Research vim paste
-    :help bracketed  
+    :help bracketed
     :set t_BE=
 
 ### October 8, 2020
-Jan: How you clean up your code?  
+Jan: How you clean up your code?
+Strager: Book: Refactoring:
 
-Strager: Book: Refactoring:  
+    https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/
+    Book: Test Driven Development By Example 1st Edition:
+    https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 
-https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/  
-
-Book: Test Driven Development By Example 1st Edition:  
-
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
-
-Strager:  
+Strager:
 
     Regular expression: [A-z^::]
     Good color: #1E90FF, #c6faf1
 
 ### October 10, 2020
-Git: git add -u: Only add modify file not the untrack files
+Git:
 
-Vim: :term open a terminal to open the program
+    git add -u: Only add modify file not the untrack files
+
+Vim:
+
+    :term # open a terminal to open the program
 
 Strager: It's complicated. My current thinking is that OOP
 requires polymorphism. If you're using classes without
@@ -90,6 +83,7 @@ provide its own, independent implementation of this interface.
 
 ### October 15, 2020
 Pygame:
+
     pygame.key.set_repeat(delay, interval) -> None
 
 When the keyboard repeat is enabled, keys that are held down
@@ -102,5 +96,19 @@ Word: Masochist means a person who enjoys an activity that
 appears to be painful or tedious
 
 Strager:
-    :grep -R SEARCH_TERM . # for searching content inside a
-file, in vim
+
+    :grep -R SEARCH_TERM . # for searching content inside a file, in vim
+
+### November 2, 2020
+Zsh:
+
+    Ctrl + a # Go to the first chacacter of the line
+    Ctrl + e # Go to the last chacacter of the line
+    Ctrl + w # Delete all the chacacter behide the cursor
+    Ctrl + u # Delete all the chacacter on the line
+    Ctrl + p # Let's you recall command that you have enter
+    Ctrl + d # Delete the chacacter in front of the cursor
+    Ctrl + f # Move the cursor front
+    Ctrl + b # Move the cursor back
+    Ctrl + h # Delete the chacacter behide the cursor
+    Ctrl + k # Delte all the chacacter in front of the cursor
