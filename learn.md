@@ -98,3 +98,10 @@ strager:
 
 If git ql message failed throw them into /dev/null, || is "then or &&", and ":"
 just exit to other prompt
+
+### November 6, 2020
+martinisoft:
+
+    mv {README.md,yo.md}
+
+Quick way to rename file
