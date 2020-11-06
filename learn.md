@@ -118,3 +118,7 @@ strager:
 clipboard
 
     xclip # Just copy to middle click of the mouse
+
+strager:
+
+    use "git restore --staged <file>..." to unstage

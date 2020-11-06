@@ -20,6 +20,7 @@ git reset --hard origin/master # Reset to lastest commit
 git reset --hard @~1 # minus one from origin/master
 git commit --amend -m "New commit message" # Change the message of the latest commit
 git reset HEAD~ # To uncommited to commited
+use "git restore --staged <file>..." to unstage
 ```
 
 ### Merge
