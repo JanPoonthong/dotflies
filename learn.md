@@ -105,3 +105,9 @@ martinisoft:
     mv {README.md,yo.md}
 
 Quick way to rename file
+
+strager:
+
+    PS1='$ '
+
+For setting the prompt in bash and zsh
