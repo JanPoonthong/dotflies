@@ -23,6 +23,7 @@ Git:
     git push origin --delete remoteBranchName
 
 ### October 7, 2020
+
 strager:
 
     # Research vim paste
@@ -30,6 +31,7 @@ strager:
     :set t_BE=
 
 ### October 8, 2020
+
 Jan: How you clean up your code?
 strager: Book: Refactoring:
 
@@ -43,6 +45,7 @@ strager:
     Good color: #1E90FF, #c6faf1
 
 ### October 10, 2020
+
 Git:
 
     git add -u: Only add modify file not the untrack files
@@ -60,12 +63,13 @@ can be accessed through the same interface. Each type can
 provide its own, independent implementation of this interface.
 
 ### October 15, 2020
+
 Pygame:
 
     pygame.key.set_repeat(delay, interval) -> None
 
 When the keyboard repeat is enabled, keys that are held down
-will generate multiple pygame.KEYDOWN events. The dalay is
+will generate multiple pygame.KEYDOWN events. The delay is
 the number of milliseconds before the first repeated
 pygame.KEYDOWN will be send. After that another
 pygame.KEYDOWN will be send every interval milliseconds
@@ -78,6 +82,7 @@ strager:
     :grep -R SEARCH_TERM . # for searching content inside a file, in vim
 
 ### November 2, 2020
+
 Zsh:
 
     Ctrl + a # Go to the first chacacter of the line
@@ -92,6 +97,7 @@ Zsh:
     Ctrl + k # Delte all the chacacter in front of the cursor
 
 ### November 3, 2020
+
 strager:
 
     alias gs="git status -s -b && { git ql 2>/dev/null || : }"
@@ -100,6 +106,7 @@ If git ql message failed throw them into /dev/null, || is "then or &&", and ":"
 just exit to other prompt
 
 ### November 6, 2020
+
 martinisoft:
 
     mv {README.md,yo.md}
@@ -122,3 +129,15 @@ clipboard
 strager:
 
     use "git restore --staged <file>..." to unstage
+
+### November 7, 2020
+
+togglebit:
+
+    VIM
+    yi" # Yank the word inside a string
+    yw # Yank word
+    gUap # Uppercase the paragraph a->all, p->paragraph
+    guap # Lowercase the paragraph
+    gUw # Uppercase the word
+    guw # Lowercase the word
