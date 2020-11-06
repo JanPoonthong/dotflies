@@ -111,3 +111,10 @@ strager:
     PS1='$ '
 
 For setting the prompt in bash and zsh
+
+strager:
+
+    xclip -selection clipboard # Copy to the CTRL + v
+clipboard
+
+    xclip # Just copy to middle click of the mouse
