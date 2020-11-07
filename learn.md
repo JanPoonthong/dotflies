@@ -141,3 +141,8 @@ togglebit:
     guap # Lowercase the paragraph
     gUw # Uppercase the word
     guw # Lowercase the word
+
+strager:
+
+    _ # Go to first non-blank white space character
+    $ # Go to last non-blank white space character
