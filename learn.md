@@ -146,3 +146,8 @@ strager:
 
     _ # Go to first non-blank white space character
     $ # Go to last non-blank white space character
+
+### November 9, 2020
+strager:
+
+    Ctrl + a -> # Vim, is add the number
