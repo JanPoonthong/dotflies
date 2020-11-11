@@ -151,3 +151,12 @@ strager:
 strager:
 
     Ctrl + a -> # Vim, is add the number
+
+### November 10, 2020
+vim:
+
+    ma # set mark a at current cursor location
+    'a # jump to line of mark a (first non-blank character in line)
+
+### November 11, 2020
+martinisoft: You can write inline C, assembly, etc. To make your program faster
