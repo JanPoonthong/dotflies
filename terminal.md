@@ -1,5 +1,4 @@
-# Terminal noted
-
+# Terminal noted 
 ### To open png in terminal
 ``xdg-open image.png``
 
@@ -8,3 +7,16 @@
 
 ### Print file with line number
 ``sed -n <103,116p> <main.py>``
+
+### Apt needed
+
+	ncdu
+	vim
+	git
+	xclip
+	pygame
+
+### Apt maybe
+
+	png-crush
+
