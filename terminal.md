@@ -13,7 +13,6 @@
 	ncdu
 	vim
 	git
-	xclip
 	pygame
 
 ### Apt maybe
