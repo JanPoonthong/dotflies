@@ -10,12 +10,11 @@
 
 ### Apt needed
 
-	ncdu
-	vim
-	git
-	pygame
+    ncdu
+    vim
+    git
+    pygame
 
 ### Apt maybe
 
-	png-crush
-
+    png-crush
