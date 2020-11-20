@@ -10,10 +10,17 @@
 
 ### Apt needed
 
+    flake8
+    htop
+    zsh
+    tree
+    xclip
     ncdu
-    vim
     git
     pygame
+    tkinter
+    build-essential
+    ffmpeg
 
 ### Apt maybe
 
