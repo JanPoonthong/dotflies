@@ -160,3 +160,9 @@ vim:
 
 ### November 11, 2020
 martinisoft: You can write inline C, assembly, etc. To make your program faster
+
+### Novemeber 21, 2020
+vim:
+
+    :saveas # Renamed the file
+    ~ # Capitalize the character
