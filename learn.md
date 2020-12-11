@@ -166,3 +166,8 @@ vim:
 
     :saveas # Renamed the file
     ~ # Capitalize the character
+
+### December 10, 2020
+vim:
+
+    %s/<word>/<word>/c # For conforming every substitute
