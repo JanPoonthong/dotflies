@@ -30,6 +30,7 @@ apt install python3-tk
 apt install build-essential
 apt install ffmpeg
 apt install pngcrush
+apt install tmux
 
 ### Pip needed
 
