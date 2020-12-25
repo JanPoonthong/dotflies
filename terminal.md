@@ -6,7 +6,7 @@
 
 ### Load gnome-terminal setting and update
 
-``dconf load /org/gnome/terminal/ < gnome_terminal_settings_backup.txt``
+``dconf load /org/gnome/terminal/ < gnome-terminal.ini``
 
 ### Print file with line number
 
