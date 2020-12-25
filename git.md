@@ -23,6 +23,8 @@ git commit --amend -m "New commit message" # Change the message of the latest co
 git reset HEAD~ # Uncommited the commited hash and staged
 use "git restore --staged <file>..." to unstage
 git submodule update --init --recursive # pull submodule
+git submodule update --recursive --remote # pull and update
+all submodule
 ```
 
 ### Merge
