@@ -14,6 +14,8 @@
 
 ### Apt needed
 
+p   libpq-dev                                                        - header files for libpq5 (PostgreSQL library)                               
+
 ```
 apt install flake8
 apt install cmake
@@ -33,6 +35,7 @@ apt install pngcrush
 apt install tmux
 apt install python3-venv python3-pip
 apt install vim
+apt install libpq-dev
 
 ### Pip needed
 
