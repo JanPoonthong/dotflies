@@ -35,6 +35,8 @@ apt install tmux
 apt install python3-venv python3-pip
 apt install vim
 apt install libpq-dev
+apt install vim-gtk
+
 
 ### Pip needed
 
