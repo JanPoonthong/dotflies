@@ -31,6 +31,7 @@ apt install build-essential
 apt install ffmpeg
 apt install pngcrush
 apt install tmux
+apt install python3-venv python3-pip
 
 ### Pip needed
 
