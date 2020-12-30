@@ -25,6 +25,8 @@ use "git restore --staged <file>..." to unstage
 git submodule update --init --recursive # pull submodule
 git submodule update --recursive --remote # pull and update
 all submodule
+git reset HEAD~ # reset all the file that had been added to
+commit but didn't push to the server yet
 ```
 
 ### Merge
