@@ -31,11 +31,11 @@ apt install python3-pygame
 apt install python3-tk
 apt install build-essential
 apt install pngcrush
-apt install tmux
 apt install python3-venv python3-pip
 apt install vim
 apt install libpq-dev
 apt install vim-gtk
+apt install sqlite3
 
 
 ### Pip needed
