@@ -171,3 +171,22 @@ vim:
 vim:
 
     %s/<word>/<word>/c # For conforming every substitute
+
+### January 15, 2021
+vim:
+
+    f<letter> and ; # find a chacacter and move front
+    F<letter> and ; # find a chacacter and move backward
+    W # jump word front
+    B # jump word backward
+    w # word front
+    b # word backward
+    2dw # delete two word
+    di" # delete word inside ""
+    di( # delete word inside ()
+    dit # delete word inside <tag>
+
+### January 16, 2021
+terminal:
+
+    \gs # ignore the alias
