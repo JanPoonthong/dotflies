@@ -10,3 +10,5 @@ vim: ```~ # Capitalize the character```
 
 vim: ```%s/<word>/<word>/c # For conforming every
 substitute```
+
+vim: ```/ $ check for trailing whitespace```
