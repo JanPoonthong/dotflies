@@ -47,3 +47,5 @@ My 2 step process:
 1. First we go through the whole book, reading it carefully and using highlights/screenshotting any useful part to distinguish fluff (useless stuff) to actual decent material. This should technically reduce the length of your book by about 90% when you're done. It also gives you the advantage that you 'prime' your brain for the material, which means that in the next step it will never be the first time that you've seen/read whatever you are reading.
 
 1. Now start at the start again(or go through your storage of 'snips') and ignore ALL the fluff, use my method that I described above to add all necessary information to memory. This might seem like it will take a long time, but consider how many times you'll have to reread the book if you always forget what you read before.
+
+There is no secret sauce, kids. Greatness is not profound; it is simple. It’s discipline, structure, and a self-motivated mindset to get you where you want to be. - conor
