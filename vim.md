@@ -12,3 +12,7 @@ vim: ```%s/<word>/<word>/c # For conforming every
 substitute```
 
 vim: ```/ $ check for trailing whitespace```
+
+vim: ```d0 delete until the end and d^ the delete all the character of the left, normal mode```
+
+vim: ``` ctrl + o, get in normal mode, for one command```
