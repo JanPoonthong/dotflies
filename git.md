@@ -13,14 +13,12 @@ g^='git push'
 gp='git checkout -p'  
 
 alias go='git checkout'
-git reset HEAD~1 # To rest files added
 git reset --hard <hash> # Uncommited the commited <hash>
 git log --stat # Check log 
 git revert <hash> # To revert back to commit stage
 git reset --hard origin/master # Reset to lastest commit
 git reset --hard @~1 # minus one from origin/master
 git commit --amend -m "New commit message" # Change the message of the latest commit
-git reset HEAD~ # Uncommited the commited hash and staged
 use "git restore --staged <file>..." to unstage
 git submodule update --init --recursive # pull submodule
 git submodule update --recursive --remote # pull and update
