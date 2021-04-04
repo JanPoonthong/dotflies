@@ -190,3 +190,8 @@ vim:
 terminal:
 
     \gs # ignore the alias
+
+### April 4, 2021
+word:
+
+    dependencies
