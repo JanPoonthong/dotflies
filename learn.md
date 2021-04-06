@@ -195,3 +195,18 @@ terminal:
 word:
 
     dependencies
+
+### April 6, 2021
+python:
+
+    def resize_all_images(request):
+        image = resize_image(request.FILES["image"].open())
+        image_two = resize_image(request.FILES["image_two"].open())
+        image_three = resize_image(request.FILES["image_three"].open())
+        return image, image_two, image_three
+
+        image, image_two, image_three = resize_all_images(request)
+
+I can get each of the value from return.
+
+django: I change TIME_ZONE
