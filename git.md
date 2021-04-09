@@ -25,6 +25,7 @@ git submodule update --recursive --remote # pull and update
 all submodule
 git reset HEAD~ # reset all the file that had been added to
 commit but didn't push to the server yet
+git-cherry-pick <hash> - Apply the changes introduced by some existing commits
 ```
 
 ### Merge
