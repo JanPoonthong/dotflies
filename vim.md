@@ -20,3 +20,5 @@ vim: ```d$ or shirt-d, delete until the end of the right of the cursor, all char
 vim: ``` ctrl + o, get in normal mode, for one command```
 
 vim: ```:'<,'>s/^.*$/"&",/ add string around the word, in visual mode```
+
+vim: ```<CTRL-V>s<ESC>, for changing(substitute) inside visual block
