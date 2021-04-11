@@ -10,13 +10,3 @@ data dependencies.
 Short of that, avoiding global variables would force you to
 pass parameters, which forces you to create the values
 before using them.
-
-## Tic tac toe
-```
-coordinates = [50, 225, 400]
-x = coordinates[column]
-# if column == 0: x = 50
-# elif column == 1: x = 225
-# elif column == 2: x = 400
-# else: raise IndexError()
-```
