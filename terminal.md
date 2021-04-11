@@ -16,6 +16,11 @@
 
 p libpq-dev -header files for libpq5 (PostgreSQL library)
 
+### Mint repsitory fail
+
+`sudo vim /etc/apt/sources.list.d/pgdg.list`
+in that case you should just delete the file `/etc/apt/sources.list.d/pgdg.list`
+
 ```
 apt install flake8
 apt install cmake
@@ -37,9 +42,7 @@ apt install libpq-dev
 apt install vim-gtk
 apt install sqlite3
 
-
 ### Pip needed
-
 pip install selenium
 pip install markdown2
 pip install pyperclip
