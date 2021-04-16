@@ -210,3 +210,8 @@ python:
 I can get each of the value from return.
 
 django: I change TIME_ZONE
+
+### April 17, 2021
+bitwise AND and OR:
+
+    "x AND y" is 1 if x AND y are both 1; "x OR y" is 1 if x OR y are either 1.
