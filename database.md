@@ -1,5 +1,0 @@
-* file system                  (files)
-* MySQL / MariaDB / PostgreSQL (relational; SQL)
-* MongoDB                      (document store)
-* memcache / Redis             (key-value; cache)
-* Solr / ElasticSearch         (text)
