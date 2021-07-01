@@ -16,4 +16,5 @@ ctrl + o, get in normal mode, for one command
 <CTRL-V>s<ESC>, for changing(substitute) inside visual block
 To resize all windows to equal dimensions Ctrl-w =
 indent and deindent in insert is ctrl + d and ctrl + t
+Vgq are for wraping the textwidth according to the .vimrc
 ```
